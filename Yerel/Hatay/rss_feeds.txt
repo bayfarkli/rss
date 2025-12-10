@@ -1,0 +1,3 @@
+# Hatay RSS Feeds
+
+- Hatay: https://www.sabah.com.tr/rss/hatay.xml

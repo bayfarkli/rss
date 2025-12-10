@@ -1,0 +1,3 @@
+# Adıyaman RSS Feeds
+
+- Adıyaman: https://www.sabah.com.tr/rss/adiyaman.xml

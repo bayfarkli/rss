@@ -1,0 +1,3 @@
+# Yozgat RSS Feeds
+
+- Yozgat: https://www.sabah.com.tr/rss/yozgat.xml

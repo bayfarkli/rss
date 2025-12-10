@@ -1,0 +1,3 @@
+# Tekirdağ RSS Feeds
+
+- Tekirdağ: https://www.sabah.com.tr/rss/tekirdag.xml

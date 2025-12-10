@@ -1,0 +1,4 @@
+# Kayseri RSS Feeds
+
+- Kayseri Olay: http://kayseriolay.com/rss.php
+- Kayseri: https://www.sabah.com.tr/rss/kayseri.xml

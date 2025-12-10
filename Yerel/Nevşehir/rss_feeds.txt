@@ -1,0 +1,3 @@
+# Nevşehir RSS Feeds
+
+- Nevşehir: https://www.sabah.com.tr/rss/nevsehir.xml

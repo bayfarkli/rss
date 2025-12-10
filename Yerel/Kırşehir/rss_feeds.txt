@@ -1,0 +1,3 @@
+# Kırşehir RSS Feeds
+
+- Kırşehir: https://www.sabah.com.tr/rss/kirsehir.xml

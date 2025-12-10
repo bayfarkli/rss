@@ -1,0 +1,3 @@
+# Niğde RSS Feeds
+
+- Niğde: https://www.sabah.com.tr/rss/nigde.xml

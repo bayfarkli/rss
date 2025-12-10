@@ -1,0 +1,3 @@
+# Zonguldak RSS Feeds
+
+- Zonguldak: https://www.sabah.com.tr/rss/zonguldak.xml

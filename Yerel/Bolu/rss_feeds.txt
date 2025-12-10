@@ -1,0 +1,3 @@
+# Bolu RSS Feeds
+
+- Bolu: https://www.sabah.com.tr/rss/bolu.xml

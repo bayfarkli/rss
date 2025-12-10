@@ -1,0 +1,3 @@
+# Aksaray RSS Feeds
+
+- Aksaray: https://www.sabah.com.tr/rss/aksaray.xml

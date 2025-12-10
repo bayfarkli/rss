@@ -1,0 +1,3 @@
+# Kırıkkale RSS Feeds
+
+- Kırıkkale: https://www.sabah.com.tr/rss/kirikkale.xml

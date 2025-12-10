@@ -1,0 +1,3 @@
+# Karabük RSS Feeds
+
+- Karabük: https://www.sabah.com.tr/rss/karabuk.xml

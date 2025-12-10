@@ -1,0 +1,3 @@
+# Diyarbakır RSS Feeds
+
+- Diyarbakır: https://www.sabah.com.tr/rss/diyarbakir.xml

@@ -1,0 +1,3 @@
+# Yalova RSS Feeds
+
+- Yalova: https://www.sabah.com.tr/rss/yalova.xml

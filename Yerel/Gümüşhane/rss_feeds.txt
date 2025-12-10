@@ -1,0 +1,3 @@
+# Gümüşhane RSS Feeds
+
+- Gümüşhane: https://www.sabah.com.tr/rss/gumushane.xml

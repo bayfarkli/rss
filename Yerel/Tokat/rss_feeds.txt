@@ -1,0 +1,3 @@
+# Tokat RSS Feeds
+
+- Tokat: https://www.sabah.com.tr/rss/tokat.xml

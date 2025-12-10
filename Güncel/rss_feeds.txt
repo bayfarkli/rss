@@ -1,0 +1,623 @@
+# Güncel RSS Feeds
+
+- Al Jazeera Turk: http://aljazeera.com.tr/rss.xml
+- BigPara: http://bigpara.hurriyet.com.tr/rss/
+- BBC Türkçe: http://feeds.bbci.co.uk/turkce/rss.xml
+- Amerika Bülteni: http://feeds.feedburner.com/amerikabulteni
+- Euronews: http://feeds.feedburner.com/euronews/tr/home
+- Gri Hat: http://grihat.com.tr/rss/
+- Sol Haber Portalı: http://haber.sol.org.tr/rss.xml
+- Sendika.Org: http://haberss.org/dosya/rss/sendika.org
+- İleri Haber: http://ilerihaber.org/rss.xml
+- İnadına Haber: http://inadinahaber.org/feed
+- Milli Refleks: http://millirefleks.com/rss.xml
+- Hürriyet Gazetesi: http://mix.chimpfeedr.com/07479-Hurriyet-Gazetesi
+- Vatan Gazetesi: http://mix.chimpfeedr.com/68482-Vatan-Gazetesi
+- NTV: http://mix.chimpfeedr.com/6ab71-NTV
+- Sabah Gazetesi: http://mix.chimpfeedr.com/d1bed-Sabah-Gazetesi
+- Platform 24: http://platform24.org/rss
+- Politik Kedi: http://politikkedi.com/feed
+- Deutsche Welle: http://rss.dw.com/rdf/rss-tur-all
+- Haberler.Com: http://rss.haberler.com/rss.asp?kategori=sondakika
+- Ana Sayfa Manşetler: http://rss.istanbulsmmmodasi.org.tr/anasayfa.xml
+- Kurumsal Duyurular: http://rss.istanbulsmmmodasi.org.tr/kurumsal.xml
+- Medya Merkezi Birimi Duyuruları: http://rss.istanbulsmmmodasi.org.tr/medyamerkezi.xml
+- Mevzuat Birimi Duyuruları: http://rss.istanbulsmmmodasi.org.tr/mevzuat.xml
+- Stajyerlere Özel Duyurular: http://rss.istanbulsmmmodasi.org.tr/staj.xml
+- Üyelere Özel Duyurular: http://rss.istanbulsmmmodasi.org.tr/uye.xml
+- Rûdaw: http://rudaw.net/turkish/rss?type=top
+- Sansürsüz: http://sansursuz.com/feed
+- Sinema: http://sinema.mynet.com/rss/RSS-enyeniler/rss.xml
+- Siyasi Haber: http://siyasihaber.org/feed
+- Haber7: http://sondakika.haber7.com/sondakika.rss
+- Sonsöz Gazetesi: http://sonsoz.com.tr/feed/
+- Ticari Haber: http://ticarihaber.net/feed
+- Sputnik Türkiye: http://tr.sputniknews.com/export/rss2/archive/index.xml
+- Turan Sesi: http://turansesi.com/rss.xml
+- Anadolu Ajansı (AA): http://www.aa.com.tr/tr/rss/default?cat=guncel
+- Açık Gazete: http://www.acikgazete.com/feed
+- Açık Gazete: http://www.acikgazete.com/feed/
+- A Haber Televizyonu: http://www.ahaber.com.tr/rss/AnaSayfa.xml
+- Ajans Haber: http://www.ajanshaber.com/rss
+- Akşam Gazetesi: http://www.aksam.com.tr/cache/rss.xml
+- Aktif Haber: http://www.aktifhaber.com/rss
+- Anayurt Gazetesi: http://www.anayurtgazetesi.com/sondakika.xml
+- Ay Gazete: http://www.aygazete.com/rss/gundem-haberleri
+- Balkan Günlüğü: http://www.balkangunlugu.com/feed
+- Başka Haber: http://www.baskahaber.org/feeds/posts/default
+- Bas News: http://www.basnews.com/index.php/tr/detail/content/195-basnews-tr?format=feed&type=rss
+- BBC Türkçe: http://www.bbc.co.uk/turkce/index.xml
+- Bianet: http://www.bianet.org/bianet.rss
+- Bloomberg HT: http://www.bloomberght.com/rss
+- Canlı Haber: http://www.canlihaber.com/rss/
+- CNBC-e: http://www.cnbce.com/rss/haber
+- CNN Türk: http://www.cnnturk.com/feed/rss/news
+- Kategori 10: http://www.cumhuriyet.com.tr/rss/10.xml
+- Kategori 11: http://www.cumhuriyet.com.tr/rss/11.xml
+- Kategori 12: http://www.cumhuriyet.com.tr/rss/12.xml
+- Kategori 14: http://www.cumhuriyet.com.tr/rss/14.xml
+- Kategori 15: http://www.cumhuriyet.com.tr/rss/15.xml
+- Kategori 16: http://www.cumhuriyet.com.tr/rss/16.xml
+- Kategori 17: http://www.cumhuriyet.com.tr/rss/17.xml
+- Kategori 19: http://www.cumhuriyet.com.tr/rss/19.xml
+- Kategori 20: http://www.cumhuriyet.com.tr/rss/20.xml
+- Kategori 24: http://www.cumhuriyet.com.tr/rss/24.xml
+- Kategori 3: http://www.cumhuriyet.com.tr/rss/3.xml
+- Kategori 32: http://www.cumhuriyet.com.tr/rss/32.xml
+- Kategori 33: http://www.cumhuriyet.com.tr/rss/33.xml
+- Kategori 34: http://www.cumhuriyet.com.tr/rss/34.xml
+- Kategori 35: http://www.cumhuriyet.com.tr/rss/35.xml
+- Kategori 36: http://www.cumhuriyet.com.tr/rss/36.xml
+- Kategori 46: http://www.cumhuriyet.com.tr/rss/46.xml
+- Kategori 6: http://www.cumhuriyet.com.tr/rss/6.xml
+- Kategori 7: http://www.cumhuriyet.com.tr/rss/7.xml
+- Kategori 70: http://www.cumhuriyet.com.tr/rss/70.xml
+- Kategori 72: http://www.cumhuriyet.com.tr/rss/72.xml
+- Kategori 73: http://www.cumhuriyet.com.tr/rss/73.xml
+- Kategori 9: http://www.cumhuriyet.com.tr/rss/9.xml
+- Son_Dakika: http://www.cumhuriyet.com.tr/rss/son_dakika.xml
+- Doğan Haber Ajansı (DHA): http://www.dha.com.tr/rss.asp
+- Diken: http://www.diken.com.tr/feed/
+- Dipnot: http://www.dipnot.tv/feed/
+- Dünya Gazetesi: http://www.dunya.com/rss?dunya
+- Eko Seyir: http://www.ekoseyir.com/rss/piyasalar/248.xml
+- En Son Haber: http://www.ensonhaber.com/rss/ensonhaber.xml
+- Eurovizyon: http://www.eurovizyon.co.uk/rss.php
+- Evrensel Gazetesi: http://www.evrensel.net/rss/haber.xml
+- F5 Haber: http://www.f5haber.com/rss/haberler.xml
+- www.finansgundem.com: http://www.finansgundem.com/rss
+- Fotomaç: http://www.fotomac.com.tr/rss/anasayfa.xml
+- Gazeteci TV: http://www.gazeteci.tv/rss.xml
+- Gazeteciler.com: http://www.gazeteciler.com/sondakika.rss
+- Gerçek Gündem: http://www.gercekgundem.com/rss
+- Gezi Press: http://www.gezipress.com/rss.xml
+- Girişim Haber: http://www.girisimhaber.com/rss.xml
+- Artı Bir TV: http://www.haberartibir.com.tr/rss.php
+- Haberdar: http://www.haberdar.com/rss
+- Habere Git: http://www.haberegit.net/feed
+- Haber Ettik: http://www.haberettik.com/rss
+- Haber Kulesi: http://www.haberkulesi.com/rss.asp
+- Haber Takva: http://www.habertakva.com/rss.php
+- Habertürk: http://www.haberturk.com/rss
+- Haber Vaktim: http://www.habervaktim.com/sondakika.xml
+- Haber X: http://www.haberx.com/haberx.rss
+- Haber Yudum: http://www.haberyudum.com/rss
+- Halkın Habercisi: http://www.halkinhabercisi.com/feed
+- Anasayfa: http://www.hurriyet.com.tr/rss/anasayfa
+- Dünya: http://www.hurriyet.com.tr/rss/dunya
+- Gündem: http://www.hurriyet.com.tr/rss/gundem
+- İhlas Haber Ajansı (İHA): http://www.iha.com.tr/rss.aspx
+- İlk Kurşun Gazetesi: http://www.ilk-kursun.com/feed
+- İMC TV: http://www.imctv.com.tr/feed/
+- İnternet Haber: http://www.internethaber.com/rss
+- İnternet Haber: http://www.internethaber.com/rss/last_min.xml
+- Kampüs Haber: http://www.kampushaber.com/rss.xml
+- Karşı Gazete: http://www.karsigazete.com.tr/rss.php
+- Kafkas Haber Ajansı (KHA): http://www.kha.com.tr/rss.php
+- Manşet Haber: http://www.mansethaber.com/rss.xml
+- Medya Pusula: http://www.medyapusula.com/rss.xml
+- Milat Gazetesi: http://www.milatgazetesi.com/rss.asp
+- Milat Gazetesi: http://www.milatgazetesi.com/rss.php
+- Millet Gazetesi: http://www.millet.com.tr/haberler.xml
+- Diyet: http://www.milliyet.com.tr/rss/rssNew/diyetRss.xml
+- Milliyet Gazetesi: http://www.milliyet.com.tr/rss/rssNew/gundemRss.xml
+- Günün Özeti: http://www.mynet.com/haber/rss/gununozeti/
+- Dünya: http://www.mynet.com/haber/rss/kategori/dunya/
+- Politika: http://www.mynet.com/haber/rss/kategori/politika/
+- Mynet Haber: http://www.mynet.com/haber/rss/son-dakika
+- National Türk: http://www.nationalturk.com/feed
+- Nazilli News: http://www.nazillinews.com/feed
+- Objektif Haber: http://www.objektifhaber.com/sondakika.rss
+- Oda TV: http://www.odatv.com/rss.php
+- Önce Vatan Gazetesi: http://www.oncevatan.com.tr/rss.php
+- Press Haber: http://www.presshaber.com/feed
+- Press Turk: http://www.pressturk.com/rss.xml
+- Radikal Gazetesi: http://www.radikal.com.tr/d/rss/RssSD.xml
+- Rota Haber: http://www.rotahaber.com/rss
+- Son Sayfa: http://www.sonsayfa.com/rss.xml
+- Spot Haber: http://www.spothaber.com/rss
+- Anasayfa: http://www.star.com.tr/rss/rss.asp
+- 125: http://www.star.com.tr/rss/rss.asp?cid=125
+- Politika: http://www.star.com.tr/rss/rss.asp?cid=13
+- 130: http://www.star.com.tr/rss/rss.asp?cid=130
+- Dünya: http://www.star.com.tr/rss/rss.asp?cid=15
+- 16: http://www.star.com.tr/rss/rss.asp?cid=16
+- 17: http://www.star.com.tr/rss/rss.asp?cid=17
+- 170: http://www.star.com.tr/rss/rss.asp?cid=170
+- 19: http://www.star.com.tr/rss/rss.asp?cid=19
+- 223: http://www.star.com.tr/rss/rss.asp?cid=223
+- Gündem: http://www.star.com.tr/rss/rss.asp?cid=500
+- Star Gazetesi: http://www.stargazete.com/rss/rss.asp
+- Takvim Gazetesi: http://www.takvim.com.tr/rss/AnaSayfa.xml
+- Taraf Gazetesi: http://www.taraf.com.tr/feed
+- Taraftar Haber: http://www.taraftarhaber.com/rss.xml
+- Tevhid-i Gündem: http://www.tevhidigundem.info/rss
+- TGRT Haber: http://www.tgrthaber.com.tr/feed/index.rss
+- TRT Haber: http://www.trthaber.com/sondakika.rss
+- Turbo Tuning: http://www.turbotuning.gen.tr/feed
+- Turizm Ekstra Haber: http://www.turizmekstra.com/rss.xml
+- Türkiye Gazetesi: http://www.turkiyegazetesi.com.tr/rss/rss.xml
+- Türkiye Haber Ajansı: http://www.turkiyehaberajansi.com/rss.xml
+- TV 5: http://www.tv5haber.com/rss.php
+- Ülke Haber: http://www.ulkehaber.com/rss/sondakika.xml
+- Ulusal: http://www.ulusal.com.tr/rss.php
+- Ulusal Kanal: http://www.ulusalkanal.com.tr/rss.php
+- Türkiye'de Vakit: http://www.vakit.com.tr/rss.php
+- YakınPlan TV: http://www.yakinplan.com/feed
+- Yakın Doğu Haber: http://www.ydh.com.tr/rss.xml
+- Yeni Akit Gazetesi: http://www.yeniakit.com.tr/haber/rss
+- Yeni Asır Gazetesi: http://www.yeniasir.com.tr/rss/Anasayfa.xml
+- Yeni Çağ Gazetesi: http://www.yenicaggazetesi.com.tr/rss
+- Anasayfa: http://www.yenimesaj.com.tr/rss.php
+- Anasayfa: http://www.yurtgazetesi.com.tr/rss.php
+- Zaman Gazetesi: http://www.zaman.com.tr/sondakika.rss
+- Yeni Dünya: http://yenidunya.org/rss.xml
+- Yeni İkdam: http://yeniikdam.com/rss.xml
+- Yeni Şafak Gazetesi: http://yenisafak.com.tr/Rss
+- Yurt Haber: http://yurthaber.mynet.com/rss/kategori/ana/rss.xml
+- 10layn: https://10layn.com/feed/
+- 22 Dakika: https://22dakika.org/feed/
+- ABC Haber: https://abcgazetesi.com.tr/rss
+- Altyazı: https://altyazi.net/feed/
+- Argonotlar: https://argonotlar.com/feed/
+- Arkeofili: https://arkeofili.com/feed/
+- Artdog: https://artdogistanbul.com/feed/
+- Artı Gerçek: https://artigercek.com/service/rss.php
+- Bant Mag: https://bantmag.com/feed/
+- Beyaz Gazete: https://beyazgazete.com/rss/guncel.xml
+- Beyinsizler: https://beyinsizler.net/feed/
+- BHA: https://bha.net.tr/rss
+- Bianet: https://bianet.org/biamag.rss
+- Bigpara: https://bigpara.hurriyet.com.tr/rss/
+- Bigumigu: https://bigumigu.com/feed/
+- Sofos: https://blog.sofos.com.tr/feed/
+- Çekiçle Felsefe: https://cekiclefelsefe.com/feed/
+- Görünüm Dergisi: https://dergipark.org.tr/tr/pub/gorunum/rss/lastissue/tr
+- Kilikya Dergisi: https://dergipark.org.tr/tr/pub/kilikya/rss/lastissue/tr
+- Dijitaliyidir: https://dijitaliyidir.com/feed/
+- Doğru Haber: https://dogruhaber.com.tr/rss
+- Edebi Bülten: https://edebibulten.com/feed/
+- Edebiyat Burada: https://edebiyatburada.com/feed/
+- Evrim Ağacı: https://evrimagaci.org/rss.xml
+- Fantastik Canavarlar: https://fantastikcanavarlar.com/feed/
+- BBC Türkçe: https://feeds.bbci.co.uk/turkce/rss.xml
+- Tam İndir: https://feeds.feedburner.com/tamindir/stream
+- Fikir Turu: https://fikirturu.com/feed/
+- FounderN: https://foundern.com/feed/
+- FRPNET: https://frpnet.net/feed
+- Gazete.net: https://gazete.net/rss
+- Geekyapar: https://geekyapar.com/feed/
+- soL Haber: https://haber.sol.org.tr/rss.xml
+- Haber Global: https://haberglobal.com.tr/rss
+- Haberiniz: https://haberiniz.com.tr/feed/
+- Halk TV: https://halktv.com.tr/service/rss.php
+- Hardware Plus: https://hwp.com.tr/feed
+- Haber 7: https://i12.haber7.net/sondakika/newsstand/latest.xml
+- İlke TV: https://ilketv.com.tr/feed/
+- Journo: https://journo.com.tr/feed
+- Journo: https://journo.com.tr/feed/
+- Kayıp Rıhtım: https://kayiprihtim.com/feed/
+- Keşif Asya: https://kesifasya.com/feed/
+- Kısa Dalga: https://kisadalga.net/service/rss.php
+- ListeList: https://listelist.com/feed/
+- Live To Bloom: https://livetobloom.com/feed/
+- Manifold: https://manifold.press/rss
+- Marjinal Sinema: https://marjinalsinema.com/feed/
+- Mavi Savunma: https://mavisavunma.com/feed/
+- Medium Türkçe Yayın: https://medium.com/feed/t%C3%BCrkiye
+- Medium Türkiye Yayını: https://mediumturkiye.com/feed
+- Mitoloji: https://mitoloji.org.tr/feed/
+- Mobidictum: https://mobidictum.com/tr/feed/
+- Moletik: https://moletik.com/feed/
+- Öncül: https://onculanalitikfelsefe.com/feed/
+- Onedio: https://onedio.com/Publisher/publisher-daily.rss
+- Dizi & Film: https://onedio.com/Publisher/publisher-dizi+%26+film.rss
+- Goygoy: https://onedio.com/Publisher/publisher-goygoy.rss
+- Gündem: https://onedio.com/Publisher/publisher-gundem.rss
+- Test: https://onedio.com/Publisher/publisher-test.rss
+- TV: https://onedio.com/Publisher/publisher-tv.rss
+- Vitrin: https://onedio.com/Publisher/publisher-vitrin.rss
+- Yazio: https://onedio.com/Publisher/publisher-yazio.rss
+- PC Hocası: https://pchocasi.com.tr/feed
+- Play Tuşu: https://playtusu.com/feed/
+- Popular Science: https://popsci.com.tr/feed/
+- DW Haber: https://rss.dw.com/rdf/rss-tur-all
+- Haberler: https://rss.haberler.com/RssNew.aspx
+- Sanayi Gazetesi: https://sanayigazetesi.com.tr/kategori/savunma-haberleri/feed/
+- Sarkaç: https://sarkac.org/feed/
+- Savunma Sanayi Gazetesi: https://savunmasanayigazetesi.com.tr/feed/
+- Serbestiyet: https://serbestiyet.com/feed/
+- Sinetopya: https://sinetopya.com/rss/
+- Swipeline: https://swipeline.co/feed/
+- T24: https://t24.com.tr/rss
+- Tarihten Yazılar: https://tarihtenyazilar.com/feed/
+- Techolay: https://techolay.net/feed/
+- Terrabayt: https://terrabayt.com/feed
+- Teyit: https://teyit.org/feed?lang=tr
+- Al Ain Türkçe: https://tr.al-ain.com/feed
+- IGN Türkiye: https://tr.ign.com/feed.xml
+- Investing Tahvil: https://tr.investing.com/rss/bonds.rss
+- Investing Genel: https://tr.investing.com/rss/market_overview.rss
+- Investing Haberler: https://tr.investing.com/rss/news.rss
+- Investing Hisse Senedi: https://tr.investing.com/rss/stock.rss
+- Sputnik: https://tr.sputniknews.com/export/rss2/archive/index.xml
+- Vesaire: https://vesaire.press/feed/
+- VoiceTekno: https://voicetekno.com/feed/
+- Webmasto: https://webmasto.com/feed
+- Webrazzi: https://webrazzi.com/feed
+- Anadolu Ajansı: https://www.aa.com.tr/tr/rss/default?cat=guncel
+- Tüm Haberler: https://www.aa.com.tr/tr/teyithatti/rss/news?cat=0
+- Aktüel: https://www.aa.com.tr/tr/teyithatti/rss/news?cat=aktuel
+- Blog: https://www.aa.com.tr/tr/teyithatti/rss/news?cat=blog
+- Gazze: https://www.aa.com.tr/tr/teyithatti/rss/news?cat=gazze
+- Politika: https://www.aa.com.tr/tr/teyithatti/rss/news?cat=politika
+- Teyit Sözlüğü: https://www.aa.com.tr/tr/teyithatti/rss/news?cat=teyit-sozlugu
+- Açık Gazete: https://www.acikgazete.com/feed/
+- Agos: https://www.agos.com.tr/rss
+- Analiz: https://www.ahaber.com.tr/rss/analiz.xml
+- Anasayfa: https://www.ahaber.com.tr/rss/anasayfa.xml
+- Din: https://www.ahaber.com.tr/rss/din.xml
+- Dünya: https://www.ahaber.com.tr/rss/dunya.xml
+- Gündem: https://www.ahaber.com.tr/rss/gundem.xml
+- Haberler: https://www.ahaber.com.tr/rss/haberler.xml
+- Son 24 Saat: https://www.ahaber.com.tr/rss/son24saat.xml
+- Tarih: https://www.ahaber.com.tr/rss/tarih.xml
+- Ajans Haber: https://www.ajanshaber.com/rss
+- Akşam: https://www.aksam.com.tr/rss/rss.asp
+- Anne Kaz: https://www.annekaz.com/feed
+- Arkitera: https://www.arkitera.com/feed/
+- Artkolik: https://www.artkolik.net/feed
+- Artkolik: https://www.artkolik.net/feed/
+- Atarita: https://www.atarita.com/feed/
+- Ayandon: https://www.ayandon.com.tr/rss.xml
+- Aydinlik: https://www.aydinlik.com.tr/feed
+- Aykırı: https://www.aykiri.com.tr/rss.xml
+- Bağımsız Sinema: https://www.bagimsizsinema.com/feed
+- Beetekno: https://www.beetekno.com/feed/posts
+- Bengütürk: https://www.benguturk.com/rss
+- Beyaz Perde: https://www.beyazperde.com/rss/haberler.xml
+- Bir Gazete: https://www.birgazete.com/feed
+- BirGün: https://www.birgun.net/rss/home
+- C4 Defence: https://www.c4defence.com/feed/
+- Cafrande: https://www.cafrande.org/feed/
+- Campaign Türkiye: https://www.campaigntr.com/feed/
+- CGTN Türk: https://www.cgtnturk.com/rss
+- CHIP Online: https://www.chip.com.tr/rss
+- CNBC-e: https://www.cnbce.com/rss
+- Tüm Haberler: https://www.cnnturk.com/feed/rss/all/news
+- Dünya Galeri: https://www.cnnturk.com/feed/rss/dunya/gallery
+- Dünya: https://www.cnnturk.com/feed/rss/dunya/news
+- Dünya Video: https://www.cnnturk.com/feed/rss/dunya/video
+- Türkiye: https://www.cnnturk.com/feed/rss/turkiye/news
+- ÇözümPark: https://www.cozumpark.com/feed/
+- Cumhuriyet: https://www.cumhuriyet.com.tr/rss/son_dakika.xml
+- DefenceTurk: https://www.defenceturk.net/feed
+- Demokrat Haber: https://www.demokrathaber.org/rss
+- Dijital Gaste: https://www.dijitalgaste.com/rss
+- DijitalX: https://www.dijitalx.com/feed/
+- Diken: https://www.diken.com.tr/feed/
+- dikGAZETE: https://www.dikgazete.com/xml/rss.xml
+- Diriliş Postası: https://www.dirilispostasi.com/rss
+- Diyanet Haber: https://www.diyanethaber.com.tr/rss
+- Dokuz8 Haber: https://www.dokuz8haber.net/rss
+- Donanım Haber: https://www.donanimhaber.com/rss/tum/
+- Dünya: https://www.dunya.com/rss?dunya
+- Edebiyat Haber: https://www.edebiyathaber.net/feed/
+- Ekol TV: https://www.ekoltv.com.tr/service/rss.php
+- Elips Haber: https://www.elipshaber.com/rss
+- En Politik: https://www.enpolitik.com/rss.xml
+- En Son Haber: https://www.ensonhaber.com/rss/ensonhaber.xml
+- Evrensel: https://www.evrensel.net/rss/haber.xml
+- F5 Haber: https://www.f5haber.com/export/rss
+- Fayn: https://www.fayn.press/rss/
+- Fizikist: https://www.fizikist.com/feed
+- Fizikist: https://www.fizikist.com/feed/
+- Forbes Türkiye: https://www.forbes.com.tr/rss
+- Foreks: https://www.foreks.com/rss/
+- Fotomaç Süper Lig: https://www.fotomac.com.tr/rss/SuperLig.xml
+- Fotomaç: https://www.fotomac.com.tr/rss/anasayfa.xml
+- Fotomaç Son 24 Saat: https://www.fotomac.com.tr/rss/son24saat.xml
+- Gazete Duvar: https://www.gazeteduvar.com.tr/export/rss
+- Gazete Pencere: https://www.gazetepencere.com/service/rss.php
+- Gerçek Gündem: https://www.gercekgundem.com/rss
+- Midas: https://www.getmidas.com/feed/
+- GZT: https://www.gzt.com/rss
+- Arkitekt: https://www.gzt.com/rss?xml=arkitekt
+- BİP: https://www.gzt.com/rss?xml=bip
+- Lokma Blog: https://www.gzt.com/rss?xml=blog
+- GZT Manşet: https://www.gzt.com/rss?xml=bugun
+- Cins: https://www.gzt.com/rss?xml=cins
+- Derin Tarih: https://www.gzt.com/rss?xml=derin-tarih
+- Gazete Manşet: https://www.gzt.com/rss?xml=gazete-manset
+- Genç Motto: https://www.gzt.com/rss?xml=genc-motto
+- GZTMZT: https://www.gzt.com/rss?xml=gztmzt
+- Jurnalist: https://www.gzt.com/rss?xml=jurnalist
+- Ketebe: https://www.gzt.com/rss?xml=ketebe
+- Lokma: https://www.gzt.com/rss?xml=lokma
+- Lugat: https://www.gzt.com/rss?xml=lugat
+- Mecra: https://www.gzt.com/rss?xml=mecra
+- Nihayet: https://www.gzt.com/rss?xml=nihayet
+- Post Öykü: https://www.gzt.com/rss?xml=post-oyku
+- Röportaj: https://www.gzt.com/rss?xml=roportaj
+- Salt Okunur: https://www.gzt.com/rss?xml=salt-okunur
+- Skyroad: https://www.gzt.com/rss?xml=skyroad
+- Tvnet: https://www.gzt.com/rss?xml=tvnet
+- Z Raporu: https://www.gzt.com/rss?xml=z-raporu
+- Zpor: https://www.gzt.com/rss?xml=zpor
+- Haber: https://www.haber.com/rss
+- Haber 3: https://www.haber3.com/rss
+- Haberet: https://www.haberet.com/export/rss
+- Haberport: https://www.haberport.com/rss/latest-posts
+- Habertürk: https://www.haberturk.com/rss
+- Hafta: https://www.hafta.com.tr/rss.xml
+- Hürriyet: https://www.hurriyet.com.tr/rss/anasayfa
+- İklim Haber: https://www.iklimhaber.org/feed/
+- İndir: https://www.indir.com/haber/feed/
+- Independent: https://www.indyturk.com/rss.xml
+- İnternet Haber: https://www.internethaber.com/rss
+- İşçi Haber: https://www.iscihaber.net/rss/news
+- İşin Detayı: https://www.isindetayi.com/rss
+- İşin Detayı Gastronomi: https://www.isindetayi.com/rss/gastronomi
+- İşin Detayı Gayrimenkul: https://www.isindetayi.com/rss/gayrimenkul
+- İşin Detayı: https://www.isindetayi.com/rss/gundem
+- İşin Detayı İş Dünyası: https://www.isindetayi.com/rss/is-dunyasi
+- İşin Detayı Lojistik: https://www.isindetayi.com/rss/lojistik
+- İşin Detayı Şirket Haberleri: https://www.isindetayi.com/rss/sirket-haberleri
+- İşin Detayı Turizm: https://www.isindetayi.com/rss/turizm
+- Kamudan Haber: https://www.kamudanhaber.net/rss
+- Karar: https://www.karar.com/service/rss.php
+- Kitap Haber: https://www.kitaphaber.com.tr/feed
+- Korkusuz: https://www.korkusuz.com.tr/feeds/rss
+- Kozmik Anafor: https://www.kozmikanafor.com/feed/
+- KRT TV: https://www.krttv.com.tr/rss
+- LOG: https://www.log.com.tr/feed/
+- Martı Dergisi: https://www.martidergisi.com/feed/
+- Matematiksel: https://www.matematiksel.org/feed
+- Medya Gazete: https://www.medyagazete.com/rss/genel-0
+- Megabayt Aksesuar: https://www.megabayt.com/rss/categorynews/aksesuar
+- Megabayt Bilgisayar: https://www.megabayt.com/rss/categorynews/bilgisayar
+- Megabayt Dijital Platformlar: https://www.megabayt.com/rss/categorynews/dijital-platformlar
+- Megabayt Dizi-sinema: https://www.megabayt.com/rss/categorynews/dizi-sinema
+- Megabayt Gündem: https://www.megabayt.com/rss/categorynews/gundem
+- Megabayt İnceleme: https://www.megabayt.com/rss/categorynews/inceleme
+- Megabayt Nasıl Yapılır?: https://www.megabayt.com/rss/categorynews/nasil-yapilir
+- Megabayt Popüler Haberler: https://www.megabayt.com/rss/categorynews/populer-haberler
+- Megabayt Sinema: https://www.megabayt.com/rss/categorynews/sinema
+- Megabayt Şirket Haberleri: https://www.megabayt.com/rss/categorynews/sirket-haberleri
+- Megabayt Sosyal Medya: https://www.megabayt.com/rss/categorynews/sosyal-medya
+- Megabayt Televizyon: https://www.megabayt.com/rss/categorynews/televizyon
+- Megabayt Youtube: https://www.megabayt.com/rss/categorynews/youtube
+- Megabayt: https://www.megabayt.com/rss/news
+- Merlin'in Kazanı: https://www.merlininkazani.com/feed/
+- Mesail: https://www.mesail.org/feed/
+- Milli Gazete: https://www.milligazete.com.tr/rss
+- PN Aile: https://www.milliyet.com.tr/rss/rssnew/ailerss.xml
+- PN Dekorasyon: https://www.milliyet.com.tr/rss/rssnew/dekorasyonrss.xml
+- PN Diyet: https://www.milliyet.com.tr/rss/rssnew/diyet.xml
+- Dünya: https://www.milliyet.com.tr/rss/rssnew/dunyarss.xml
+- EĞİTİM: https://www.milliyet.com.tr/rss/rssnew/egitim.xml
+- Gündem: https://www.milliyet.com.tr/rss/rssnew/gundem.xml
+- PN Güzellik: https://www.milliyet.com.tr/rss/rssnew/guzellikrss.xml
+- PN İlişkiler: https://www.milliyet.com.tr/rss/rssnew/iliskiler.xml
+- Kitap: https://www.milliyet.com.tr/rss/rssnew/kitaprss.xml
+- MAGAZİN: https://www.milliyet.com.tr/rss/rssnew/magazinrss.xml
+- Milliyet Tatil: https://www.milliyet.com.tr/rss/rssnew/milliyettatilrss.xml
+- OTOMOBİL: https://www.milliyet.com.tr/rss/rssnew/otomobilrss.xml
+- Siyaset: https://www.milliyet.com.tr/rss/rssnew/siyasetrss.xml
+- Yazarlar: https://www.milliyet.com.tr/rss/rssnew/yazarlarrss.xml
+- Mister Noob: https://www.misternoob.com/feed/
+- Muhalif: https://www.muhalif.com.tr/rss/genel-0
+- Mürekkep Haber: https://www.murekkephaber.com/rss.xml
+- Mynet: https://www.mynet.com/haber/rss/sondakika
+- www.mynet.com: https://www.mynet.com/magazin/rss
+- NewsLab Turkey: https://www.newslabturkey.org/feed/
+- Nouvart: https://www.nouvart.net/feed/
+- Dünya Kupası 2018: https://www.ntv.com.tr/dunya-kupasi-2018.rss
+- Dünya: https://www.ntv.com.tr/dunya.rss
+- Egitim: https://www.ntv.com.tr/egitim.rss
+- NTV: https://www.ntv.com.tr/gundem.rss
+- Türkiye: https://www.ntv.com.tr/turkiye.rss
+- NTV Spor Anasayfa: https://www.ntvspor.net/rss/anasayfa
+- NTV Spor Dünyadan Futbol: https://www.ntvspor.net/rss/kategori/dunyadan-futbol
+- OdaTV: https://www.odatv.com/rss.xml
+- PlumeMag: https://www.plumemag.com/feed/
+- Radikal: https://www.radikal.com.tr/feed/
+- Rotka: https://www.rotka.org/feed/
+- Sofra Akademi: https://www.sabah.com.tr/rss/akademi.xml
+- Anasayfa: https://www.sabah.com.tr/rss/anasayfa.xml
+- Cumartesi: https://www.sabah.com.tr/rss/cumartesi.xml
+- Dünya: https://www.sabah.com.tr/rss/dunya.xml
+- Finans Altın Haberleri: https://www.sabah.com.tr/rss/finansaltin-haberleri.xml
+- Finans Borsa Haberleri: https://www.sabah.com.tr/rss/finansborsa-haberleri.xml
+- Finans Ekonomi Haberleri: https://www.sabah.com.tr/rss/finansekonomi-haberleri.xml
+- Finans Döviz-Emtia Haberleri: https://www.sabah.com.tr/rss/finansemtia-doviz-haberleri.xml
+- Finans Gündem Haberleri: https://www.sabah.com.tr/rss/finansgundem-haberleri.xml
+- Finans Kripto Para Haberleri: https://www.sabah.com.tr/rss/finanskripto-para-haberleri.xml
+- Finans Şirket Haberleri: https://www.sabah.com.tr/rss/finanssirket-haberleri.xml
+- Aktüel: https://www.sabah.com.tr/rss/galeri/aktuel.xml
+- Alışveriş: https://www.sabah.com.tr/rss/galeri/alisveris.xml
+- Amerika: https://www.sabah.com.tr/rss/galeri/amerika.xml
+- Anasayfa Galeri: https://www.sabah.com.tr/rss/galeri/anasayfa.xml
+- Dünya Galeri: https://www.sabah.com.tr/rss/galeri/dunya.xml
+- Dünya Kupası Galeri: https://www.sabah.com.tr/rss/galeri/dunyakupasi.xml
+- Kadın: https://www.sabah.com.tr/rss/galeri/kadin.xml
+- Memurlar: https://www.sabah.com.tr/rss/galeri/memurlar.xml
+- Özel: https://www.sabah.com.tr/rss/galeri/ozel.xml
+- Sinema: https://www.sabah.com.tr/rss/galeri/sinema.xml
+- Turizm: https://www.sabah.com.tr/rss/galeri/turizm.xml
+- Türkiye: https://www.sabah.com.tr/rss/galeri/turkiye.xml
+- Gündem: https://www.sabah.com.tr/rss/gundem.xml
+- Günün İçinden: https://www.sabah.com.tr/rss/gununicinden.xml
+- Hakkari: https://www.sabah.com.tr/rss/hakkari.xml
+- İstanbul: https://www.sabah.com.tr/rss/istanbul.xml
+- İzmir: https://www.sabah.com.tr/rss/izmir.xml
+- Sofra Koleksiyonlar: https://www.sabah.com.tr/rss/koleksiyon.xml
+- Laykla: https://www.sabah.com.tr/rss/laykla.xml
+- Tüm Haberler: https://www.sabah.com.tr/rss/news.xml
+- Pazar: https://www.sabah.com.tr/rss/pazar.xml
+- Roza: https://www.sabah.com.tr/rss/roza.xml
+- Sofra: https://www.sabah.com.tr/rss/sofra.xml
+- Sofra Sözlük: https://www.sabah.com.tr/rss/sozluk.xml
+- Sofra Tarifler: https://www.sabah.com.tr/rss/tarif.xml
+- Trend: https://www.sabah.com.tr/rss/trend.xml
+- Turizm: https://www.sabah.com.tr/rss/turizm.xml
+- Haftanın Filmleri: https://www.sabah.com.tr/rss/vizyondakiler.xml
+- Ahmet Alemdar: https://www.sabah.com.tr/rss/yazar/ahmet-alemdar
+- Ali Gültiken: https://www.sabah.com.tr/rss/yazar/ali-gultiken
+- Yüksel Aytuğ: https://www.sabah.com.tr/rss/yazar/aytug
+- Haşmet Babaoğlu: https://www.sabah.com.tr/rss/yazar/babaoglu
+- Bercan Tutar: https://www.sabah.com.tr/rss/yazar/bercan-tutar
+- Bilgay Duman: https://www.sabah.com.tr/rss/yazar/bilgay-duman
+- Gürcan Bilgiç: https://www.sabah.com.tr/rss/yazar/bilgic
+- Büşra Zeynep Özdemir: https://www.sabah.com.tr/rss/yazar/busra-zeynep-ozdemir
+- Ahmet Çakar: https://www.sabah.com.tr/rss/yazar/cakar
+- Bülent Cankurt: https://www.sabah.com.tr/rss/yazar/cankurt
+- Cenk Beyaz: https://www.sabah.com.tr/rss/yazar/cenk-beyaz
+- Dilek Güngör: https://www.sabah.com.tr/rss/yazar/dilek-gungor
+- Yavuz Donat: https://www.sabah.com.tr/rss/yazar/donat
+- Faruk Erdem: https://www.sabah.com.tr/rss/yazar/erdem
+- Erhan Afyoncu: https://www.sabah.com.tr/rss/yazar/erhan-afyoncu
+- Erman Akıllı: https://www.sabah.com.tr/rss/yazar/erman-akilli
+- Esra Ezmeci: https://www.sabah.com.tr/rss/yazar/esra_ezmeci
+- Fatih Sinan Esen: https://www.sabah.com.tr/rss/yazar/fatih-sinan-esen
+- Fatih Doğan: https://www.sabah.com.tr/rss/yazar/fdogan
+- Funda Karayel: https://www.sabah.com.tr/rss/yazar/funda-karayel
+- Gloria Shkurti Özdemir: https://www.sabah.com.tr/rss/yazar/gloria-shkurti-ozdemir
+- İskender Günen: https://www.sabah.com.tr/rss/yazar/gunen
+- Hakan Uç: https://www.sabah.com.tr/rss/yazar/hakan-uc
+- Harun Türker Kara: https://www.sabah.com.tr/rss/yazar/harun-turker-kara
+- Nihat Hatipoğlu: https://www.sabah.com.tr/rss/yazar/hatipoglu
+- Hilal Kaplan: https://www.sabah.com.tr/rss/yazar/hilalkaplan
+- Hülya Güler: https://www.sabah.com.tr/rss/yazar/hulya-guler
+- Hüseyin Arslan: https://www.sabah.com.tr/rss/yazar/huseyin-arslan
+- İdil Açıkalın: https://www.sabah.com.tr/rss/yazar/idil-cimrin
+- İdil Demirel: https://www.sabah.com.tr/rss/yazar/idildemirel
+- İlker Gezici: https://www.sabah.com.tr/rss/yazar/ilkergezici
+- Kerem Alkin: https://www.sabah.com.tr/rss/yazar/kerem-alkin
+- Mehmet Rakipoğlu: https://www.sabah.com.tr/rss/yazar/mehmet-rakipoglu
+- Mehmet Yüce: https://www.sabah.com.tr/rss/yazar/mehmet-yuce
+- Melih Altınok: https://www.sabah.com.tr/rss/yazar/melihaltinok
+- M. Erkut Ayvaz: https://www.sabah.com.tr/rss/yazar/merkut
+- Okan Müderrisoğlu: https://www.sabah.com.tr/rss/yazar/muderrisoglu
+- Muharrem Kılıç: https://www.sabah.com.tr/rss/yazar/muharrem-kilic
+- Murat Aslan: https://www.sabah.com.tr/rss/yazar/murat-aslan
+- Murat Yılmaz: https://www.sabah.com.tr/rss/yazar/murat-yilmaz
+- Murat Özbostan: https://www.sabah.com.tr/rss/yazar/murat_ozbostan
+- Mustafa Caner: https://www.sabah.com.tr/rss/yazar/mustafa-caner
+- Mustafa Çulcu: https://www.sabah.com.tr/rss/yazar/mustafa-culcu
+- Nebi Miş: https://www.sabah.com.tr/rss/yazar/nebi_mis
+- Nurullah Gür: https://www.sabah.com.tr/rss/yazar/nurullah-gur
+- Oğuzhan Erdoğan: https://www.sabah.com.tr/rss/yazar/oguzhan-erdogan
+- İbrahim Altay: https://www.sabah.com.tr/rss/yazar/okur_temsilcisi
+- Ömer Karahan: https://www.sabah.com.tr/rss/yazar/omer-karahan
+- Mahmut Övür: https://www.sabah.com.tr/rss/yazar/ovur
+- Özer Köseoğlu: https://www.sabah.com.tr/rss/yazar/ozer-koseoglu
+- Özlem Doğaner: https://www.sabah.com.tr/rss/yazar/ozlemdoganer
+- Pınar Yıldız Yüksel: https://www.sabah.com.tr/rss/yazar/pinar-yildizyuksel
+- A.menaf Turan: https://www.sabah.com.tr/rss/yazar/prof-dr-abdulmenaf-turan
+- Ersin Ramoğlu (güney): https://www.sabah.com.tr/rss/yazar/ramoglu
+- Salih Tuna: https://www.sabah.com.tr/rss/yazar/salih-tuna
+- Cem Sancar: https://www.sabah.com.tr/rss/yazar/sancar
+- Ufuk Sandık: https://www.sabah.com.tr/rss/yazar/sandik
+- Mevlüt Tezel: https://www.sabah.com.tr/rss/yazar/sb-mevlut_tezel
+- Selahattin Dönmez: https://www.sabah.com.tr/rss/yazar/selahattin-donmez
+- Timur Sırt: https://www.sabah.com.tr/rss/yazar/sirt
+- Bülent Timurlenk: https://www.sabah.com.tr/rss/yazar/timurlenk
+- Tunç Demirtaş: https://www.sabah.com.tr/rss/yazar/tunc-demirtas
+- Levent Tüzemen: https://www.sabah.com.tr/rss/yazar/tuzemen
+- Ömer Üründül: https://www.sabah.com.tr/rss/yazar/urundul
+- Zakir Avşar: https://www.sabah.com.tr/rss/yazar/zakir-avsar
+- Yazarlar: https://www.sabah.com.tr/rss/yazarlar.xml
+- SavunmaSanayiST: https://www.savunmasanayist.com/feed/
+- SavunmaTR: https://www.savunmatr.com/feed/
+- Sözcü Dünyadan Futbol: https://www.sozcu.com.tr/feeds-rss-category-dunyadan-spor
+- Feeds-Rss-Category Egitim: https://www.sozcu.com.tr/feeds-rss-category-egitim
+- Sözcü Gündem: https://www.sozcu.com.tr/feeds-rss-category-gundem
+- Sözcü Günün İçinden: https://www.sozcu.com.tr/feeds-rss-category-gunun-icinden
+- Sözcü İlan: https://www.sozcu.com.tr/feeds-rss-category-ilan
+- Sözcü Otomotiv: https://www.sozcu.com.tr/feeds-rss-category-otomotiv
+- Sözcü Resmi İlanlar: https://www.sozcu.com.tr/feeds-rss-category-resmi-ilanlar
+- Sözcü: https://www.sozcu.com.tr/feeds-rss-category-sozcu
+- Sözcü Yazarlar: https://www.sozcu.com.tr/feeds-rss-category-yazar
+- Star: https://www.star.com.tr/rss/rss.asp
+- Anasayfa: https://www.takvim.com.tr/rss/anasayfa.xml
+- Güncel: https://www.takvim.com.tr/rss/guncel.xml
+- Saklambaç: https://www.takvim.com.tr/rss/saklambac.xml
+- Son 24 Saat: https://www.takvim.com.tr/rss/son24saat.xml
+- Televizyon: https://www.takvim.com.tr/rss/televizyon.xml
+- Technopat: https://www.technopat.net/feed/
+- Teknoblog: https://www.teknoblog.com/feed/
+- TeknoBurada: https://www.teknoburada.net/feed/
+- Tele1: https://www.tele1.com.tr/rss
+- Tele2: https://www.tele2haber.com/rss
+- TGRT Haber: https://www.tgrthaber.com/rss/manset
+- The Geyik: https://www.thegeyik.com/feed/
+- Timeturk: https://www.timeturk.com/rss/
+- TOBB Duyurular: https://www.tobb.org.tr/Sayfalar/RssFeeder.php?List=DuyurularListesi
+- TOBB Haberler: https://www.tobb.org.tr/Sayfalar/RssFeeder.php?List=Haberler
+- TOBB Manşet: https://www.tobb.org.tr/Sayfalar/RssFeeder.php?List=MansetListesi
+- TRT Haber: https://www.trthaber.com/sondakika.rss
+- Türkgün: https://www.turkgun.com/rss/news
+- Türkiye Gazetesi: https://www.turkiyegazetesi.com.tr/feed
+- Turkmmo: https://www.turkmmo.com/feed
+- Turuncu Levye: https://www.turunculevye.com/feed/
+- Ulusal Kanal: https://www.ulusal.com.tr/rss
+- Ulusal Post: https://www.ulusalpost.com/service/rss.php
+- Uplifers: https://www.uplifers.com/feed/
+- Uyan32: https://www.uyan32.com/rss
+- Veryansın TV: https://www.veryansintv.com/feed
+- Anasayfa: https://www.yeniakit.com.tr/rss/haber
+- Aktüel: https://www.yeniakit.com.tr/rss/haber/aktuel
+- Bugünkü Akit: https://www.yeniakit.com.tr/rss/haber/bugunku-akit
+- Dünya: https://www.yeniakit.com.tr/rss/haber/dunya
+- Egitim: https://www.yeniakit.com.tr/rss/haber/egitim
+- Gündem: https://www.yeniakit.com.tr/rss/haber/gundem
+- Günün Manşetleri: https://www.yeniakit.com.tr/rss/haber/gunun-mansetleri
+- Medya: https://www.yeniakit.com.tr/rss/haber/medya
+- Otomotiv: https://www.yeniakit.com.tr/rss/haber/otomotiv
+- Özel Haber: https://www.yeniakit.com.tr/rss/haber/ozel-haber
+- Siyaset: https://www.yeniakit.com.tr/rss/haber/siyaset
+- 15 Temmuz: https://www.yeniakit.com.tr/rss/video/15temmuz
+- Çocuk Egitim: https://www.yeniakit.com.tr/rss/video/cocuk-egitim
+- Dünya: https://www.yeniakit.com.tr/rss/video/dunya
+- Gezi: https://www.yeniakit.com.tr/rss/video/gezi
+- Güncel: https://www.yeniakit.com.tr/rss/video/guncel
+- Gündem: https://www.yeniakit.com.tr/rss/video/gundem
+- İslam: https://www.yeniakit.com.tr/rss/video/islam
+- Medya: https://www.yeniakit.com.tr/rss/video/medya
+- Ramazan: https://www.yeniakit.com.tr/rss/video/ramazan
+- Siyaset: https://www.yeniakit.com.tr/rss/video/siyaset
+- Trafik Kazaları: https://www.yeniakit.com.tr/rss/video/trafik-kazalari
+- Türkiye: https://www.yeniakit.com.tr/rss/video/turkiye
+- Anasayfa: https://www.yeniasir.com.tr/rss/anasayfa.xml
+- Yeniçağ Gazetesi: https://www.yenicaggazetesi.com.tr/service/rss.php
+- Anasayfa: https://www.yenisafak.com/Rss
+- Dunya: https://www.yenisafak.com/rss?xml=dunya
+- Yeni Şafak: https://www.yenisafak.com/rss?xml=gundem
+- Manset: https://www.yenisafak.com/rss?xml=manset
+- Yazarlar: https://www.yenisafak.com/rss?xml=yazarlar
+- Yurt Gazetesi: https://www.yurtgazetesi.com.tr/service/rss.php
+- Yedikıta: https://yedikita.com.tr/feed/
+- Yeşil Gazete: https://yesilgazete.org/feed/
+- Yurtsever: https://yurtsever.org.tr/feed
+- Yurtsever: https://yurtsever.org.tr/feed/

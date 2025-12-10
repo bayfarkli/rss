@@ -1,0 +1,3 @@
+# Erzincan RSS Feeds
+
+- Erzincan: https://www.sabah.com.tr/rss/erzincan.xml

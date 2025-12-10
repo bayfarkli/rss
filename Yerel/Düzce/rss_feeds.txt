@@ -1,0 +1,3 @@
+# Düzce RSS Feeds
+
+- Düzce: https://www.sabah.com.tr/rss/duzce.xml

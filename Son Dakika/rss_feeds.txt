@@ -1,0 +1,10 @@
+# Son Dakika RSS Feeds
+
+- Son Dakika: http://rss.sondakika.com/rss_standart.asp
+- Son Dakika: http://www.cumhuriyet.com.tr/rss/son_dakika.xml
+- Son Dakika: http://www.milliyet.com.tr/rss/rssNew/SonDakikaRss.xml
+- Son Dakika: http://www.mynet.com/haber/rss/sondakika
+- Sondakika: http://www.trthaber.com/sondakika.rss
+- Son Dakika: https://www.milliyet.com.tr/rss/rssnew/sondakikarss.xml
+- Son Dakika: https://www.sabah.com.tr/rss/sondakika.xml
+- Sözcü Son Dakika: https://www.sozcu.com.tr/feeds-son-dakika

@@ -1,0 +1,3 @@
+# Rize RSS Feeds
+
+- Rize: https://www.sabah.com.tr/rss/rize.xml

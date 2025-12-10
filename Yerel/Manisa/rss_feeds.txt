@@ -1,0 +1,3 @@
+# Manisa RSS Feeds
+
+- Manisa: https://www.sabah.com.tr/rss/manisa.xml

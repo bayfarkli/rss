@@ -1,0 +1,3 @@
+# Bartın RSS Feeds
+
+- Bartın: https://www.sabah.com.tr/rss/bartin.xml

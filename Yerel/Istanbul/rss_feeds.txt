@@ -1,0 +1,3 @@
+# Istanbul RSS Feeds
+
+- Istanbul Life: https://istanbullife.com.tr/feed/

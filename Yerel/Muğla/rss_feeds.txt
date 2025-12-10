@@ -1,0 +1,3 @@
+# Muğla RSS Feeds
+
+- Muğla: https://www.sabah.com.tr/rss/mugla.xml

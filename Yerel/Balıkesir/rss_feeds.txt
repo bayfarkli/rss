@@ -1,0 +1,3 @@
+# Balıkesir RSS Feeds
+
+- Balıkesir: https://www.sabah.com.tr/rss/balikesir.xml

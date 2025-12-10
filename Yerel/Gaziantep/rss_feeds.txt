@@ -1,0 +1,3 @@
+# Gaziantep RSS Feeds
+
+- Gaziantep: https://www.sabah.com.tr/rss/gaziantep.xml

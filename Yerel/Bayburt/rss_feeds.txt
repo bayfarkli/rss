@@ -1,0 +1,3 @@
+# Bayburt RSS Feeds
+
+- Bayburt: https://www.sabah.com.tr/rss/bayburt.xml

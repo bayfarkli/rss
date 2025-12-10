@@ -1,0 +1,3 @@
+# Antalya RSS Feeds
+
+- Antalya: https://www.sabah.com.tr/rss/antalya.xml

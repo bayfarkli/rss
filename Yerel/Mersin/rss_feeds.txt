@@ -1,0 +1,3 @@
+# Mersin RSS Feeds
+
+- Mersin: https://www.sabah.com.tr/rss/mersin.xml

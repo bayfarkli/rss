@@ -1,0 +1,3 @@
+# Siirt RSS Feeds
+
+- Siirt: https://www.sabah.com.tr/rss/siirt.xml

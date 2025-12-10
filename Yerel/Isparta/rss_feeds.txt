@@ -1,0 +1,3 @@
+# Isparta RSS Feeds
+
+- Isparta: https://www.sabah.com.tr/rss/isparta.xml

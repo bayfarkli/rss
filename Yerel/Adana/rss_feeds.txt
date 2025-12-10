@@ -1,0 +1,3 @@
+# Adana RSS Feeds
+
+- Adana: https://www.sabah.com.tr/rss/adana.xml

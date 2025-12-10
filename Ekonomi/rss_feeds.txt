@@ -1,0 +1,42 @@
+# Ekonomi RSS Feeds
+
+- Finans Gündem: http://www.finansgundem.com/rss
+- Ekonomi: http://www.hurriyet.com.tr/rss/ekonomi
+- Ekonomi: https://onedio.com/Publisher/publisher-ekonomi.rss
+- Finans: https://onedio.com/Publisher/publisher-finans.rss
+- Investing Kripto: https://tr.investing.com/rss/302.rss
+- Investing Emtia: https://tr.investing.com/rss/commodities.rss
+- Investing Döviz: https://tr.investing.com/rss/forex.rss
+- Ekonomi: https://www.aa.com.tr/tr/teyithatti/rss/news?cat=ekonomi
+- Ekonomi: https://www.ahaber.com.tr/rss/ekonomi.xml
+- Ekonomi Galeri: https://www.cnnturk.com/feed/rss/ekonomi/gallery
+- Ekonomi: https://www.cnnturk.com/feed/rss/ekonomi/news
+- Ekonomi Video: https://www.cnnturk.com/feed/rss/ekonomi/video
+- Döviz: https://www.doviz.com/news/rss
+- Ekonomi Gazetesi: https://www.ekonomigazetesi.com/rss.xml
+- Ekonomim: https://www.ekonomim.com/export/rss
+- İşin Detayı Borsa: https://www.isindetayi.com/rss/borsa
+- İşin Detayı Ekonomi: https://www.isindetayi.com/rss/ekonomi
+- İşin Detayı Finans: https://www.isindetayi.com/rss/finans
+- Megabayt Ekonomi: https://www.megabayt.com/rss/categorynews/ekonomi
+- Megabayt Kripto Para: https://www.megabayt.com/rss/categorynews/kripto-para
+- Ekonomi: https://www.milliyet.com.tr/rss/rssnew/ekonomi.xml
+- Konut Emlak: https://www.milliyet.com.tr/rss/rssnew/konutemlakriss.xml
+- Ekonomi: https://www.ntv.com.tr/ekonomi.rss
+- Ekonomi: https://www.sabah.com.tr/rss/ekonomi.xml
+- Emlak: https://www.sabah.com.tr/rss/emlak.xml
+- Ekonomi Galeri: https://www.sabah.com.tr/rss/galeri/ekonomi.xml
+- Ekonomide Bugün Galeri: https://www.sabah.com.tr/rss/galeri/ekonomidebugun.xml
+- Emlak Galeri: https://www.sabah.com.tr/rss/galeri/emlak.xml
+- Sözcü Borsa: https://www.sozcu.com.tr/feeds-rss-category-borsa
+- Sözcü Ekonomi: https://www.sozcu.com.tr/feeds-rss-category-ekonomi
+- Sözcü Emlak: https://www.sozcu.com.tr/feeds-rss-category-emlak
+- Sözcü Emtia: https://www.sozcu.com.tr/feeds-rss-category-emtia
+- Sözcü Finans: https://www.sozcu.com.tr/feeds-rss-category-finans
+- Sözcü Kripto: https://www.sozcu.com.tr/feeds-rss-category-kripto
+- Ekonomi: https://www.takvim.com.tr/rss/ekonomi.xml
+- Ekonomi: https://www.yeniakit.com.tr/rss/haber/ekonomi
+- Emlak: https://www.yeniakit.com.tr/rss/haber/emlak
+- Ekonomi: https://www.yeniakit.com.tr/rss/video/ekonomi
+- Emlak Rehberi: https://www.yeniakit.com.tr/rss/video/emlak-rehberi
+- Ekonomi: https://www.yenisafak.com/rss?xml=ekonomi

@@ -1,0 +1,3 @@
+# Çorum RSS Feeds
+
+- Çorum: https://www.sabah.com.tr/rss/corum.xml

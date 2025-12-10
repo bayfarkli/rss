@@ -1,0 +1,3 @@
+# Afyonkarahisar RSS Feeds
+
+- Afyonkarahisar: https://www.sabah.com.tr/rss/afyonkarahisar.xml

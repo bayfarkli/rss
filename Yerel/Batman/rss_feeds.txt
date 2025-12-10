@@ -1,0 +1,3 @@
+# Batman RSS Feeds
+
+- Batman: https://www.sabah.com.tr/rss/batman.xml

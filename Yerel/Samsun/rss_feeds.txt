@@ -1,0 +1,3 @@
+# Samsun RSS Feeds
+
+- Samsun: https://www.sabah.com.tr/rss/samsun.xml

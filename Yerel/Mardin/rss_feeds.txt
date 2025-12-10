@@ -1,0 +1,3 @@
+# Mardin RSS Feeds
+
+- Mardin: https://www.sabah.com.tr/rss/mardin.xml

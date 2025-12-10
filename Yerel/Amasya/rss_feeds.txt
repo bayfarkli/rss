@@ -1,0 +1,3 @@
+# Amasya RSS Feeds
+
+- Amasya: https://www.sabah.com.tr/rss/amasya.xml

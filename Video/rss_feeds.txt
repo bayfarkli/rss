@@ -1,0 +1,10 @@
+# Video RSS Feeds
+
+- Video: http://www.star.com.tr/rss/rss.asp?cid=223
+- Video: https://onedio.com/Publisher/publisher-video.rss
+- Video: https://www.aa.com.tr/tr/teyithatti/rss/video
+- Tüm Videolar: https://www.cnnturk.com/feed/rss/all/video
+- Türkiye Video: https://www.cnnturk.com/feed/rss/turkiye/video
+- Video: https://www.gzt.com/rss?xml=video-galeri
+- Video: https://www.sabah.com.tr/rss/video/video.xml
+- Video: https://www.takvim.com.tr/rss/video.xml

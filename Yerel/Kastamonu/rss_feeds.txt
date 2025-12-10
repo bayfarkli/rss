@@ -1,3 +1,1 @@
-# Kastamonu RSS Feeds
-
-- Kastamonu: https://www.sabah.com.tr/rss/kastamonu.xml
+https://www.sabah.com.tr/rss/kastamonu.xml

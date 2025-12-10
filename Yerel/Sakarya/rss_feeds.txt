@@ -1,3 +1,1 @@
-# Sakarya RSS Feeds
-
-- Sakarya: https://www.sabah.com.tr/rss/sakarya.xml
+https://www.sabah.com.tr/rss/sakarya.xml

@@ -1,3 +1,1 @@
-# Giresun RSS Feeds
-
-- Giresun: https://www.sabah.com.tr/rss/giresun.xml
+https://www.sabah.com.tr/rss/giresun.xml

@@ -1,3 +1,1 @@
-# Şanlıurfa RSS Feeds
-
-- Şanlıurfa: https://www.sabah.com.tr/rss/sanliurfa.xml
+https://www.sabah.com.tr/rss/sanliurfa.xml

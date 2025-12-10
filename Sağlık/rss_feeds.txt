@@ -1,18 +1,16 @@
-# Sağlık RSS Feeds
-
-- Sağlık: http://www.hurriyet.com.tr/rss/saglik
-- Sağlık: http://www.mynet.com/haber/rss/kategori/saglik/
-- Sağlık: http://www.star.com.tr/rss/rss.asp?cid=17
-- Sağlık: https://onedio.com/Publisher/publisher-saglik.rss
-- Sağlık: https://www.ahaber.com.tr/rss/saglik.xml
-- Sağlık Galeri: https://www.cnnturk.com/feed/rss/saglik/gallery
-- Sağlık: https://www.cnnturk.com/feed/rss/saglik/news
-- Sağlık Video: https://www.cnnturk.com/feed/rss/saglik/video
-- İşin Detayı Sağlık: https://www.isindetayi.com/rss/saglik
-- Megabayt Sağlık: https://www.megabayt.com/rss/categorynews/saglik
-- PN Sağlık: https://www.milliyet.com.tr/rss/rssnew/saglik.xml
-- Sağlık: https://www.ntv.com.tr/saglik.rss
-- Sağlık Galeri: https://www.sabah.com.tr/rss/galeri/saglik.xml
-- Sağlık: https://www.sabah.com.tr/rss/saglik.xml
-- Sözcü Sağlık: https://www.sozcu.com.tr/feeds-rss-category-saglik
-- Sağlık: https://www.yeniakit.com.tr/rss/haber/saglik
+http://www.hurriyet.com.tr/rss/saglik
+http://www.mynet.com/haber/rss/kategori/saglik/
+http://www.star.com.tr/rss/rss.asp?cid=17
+https://onedio.com/Publisher/publisher-saglik.rss
+https://www.ahaber.com.tr/rss/saglik.xml
+https://www.cnnturk.com/feed/rss/saglik/gallery
+https://www.cnnturk.com/feed/rss/saglik/news
+https://www.cnnturk.com/feed/rss/saglik/video
+https://www.isindetayi.com/rss/saglik
+https://www.megabayt.com/rss/categorynews/saglik
+https://www.milliyet.com.tr/rss/rssnew/saglik.xml
+https://www.ntv.com.tr/saglik.rss
+https://www.sabah.com.tr/rss/galeri/saglik.xml
+https://www.sabah.com.tr/rss/saglik.xml
+https://www.sozcu.com.tr/feeds-rss-category-saglik
+https://www.yeniakit.com.tr/rss/haber/saglik

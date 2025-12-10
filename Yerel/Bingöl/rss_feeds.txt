@@ -1,3 +1,1 @@
-# Bingöl RSS Feeds
-
-- Bingöl: https://www.sabah.com.tr/rss/bingol.xml
+https://www.sabah.com.tr/rss/bingol.xml

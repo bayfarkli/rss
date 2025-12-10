@@ -1,3 +1,1 @@
-# Bitlis RSS Feeds
-
-- Bitlis: https://www.sabah.com.tr/rss/bitlis.xml
+https://www.sabah.com.tr/rss/bitlis.xml

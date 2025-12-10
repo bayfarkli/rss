@@ -1,3 +1,1 @@
-# Kırklareli RSS Feeds
-
-- Kırklareli: https://www.sabah.com.tr/rss/kirklareli.xml
+https://www.sabah.com.tr/rss/kirklareli.xml

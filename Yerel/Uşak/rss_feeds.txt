@@ -1,3 +1,1 @@
-# Uşak RSS Feeds
-
-- Uşak: https://www.sabah.com.tr/rss/usak.xml
+https://www.sabah.com.tr/rss/usak.xml

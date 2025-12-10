@@ -1,4 +1,2 @@
-# Ordu RSS Feeds
-
-- Ordu: https://www.sabah.com.tr/rss/ordu.xml
-- Sordum: https://www.sordum.net/feed/
+https://www.sabah.com.tr/rss/ordu.xml
+https://www.sordum.net/feed/

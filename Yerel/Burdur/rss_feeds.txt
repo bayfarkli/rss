@@ -1,3 +1,1 @@
-# Burdur RSS Feeds
-
-- Burdur: https://www.sabah.com.tr/rss/burdur.xml
+https://www.sabah.com.tr/rss/burdur.xml

@@ -1,53 +1,51 @@
-# Teknoloji RSS Feeds
-
-- Teknoloji: http://www.hurriyet.com.tr/rss/teknoloji
-- Teknoloji: http://www.mynet.com/haber/rss/kategori/teknoloji/
-- Teknoloji: http://www.star.com.tr/rss/rss.asp?cid=170
-- Bilim ve Gelecek: https://bilimvegelecek.com.tr/index.php/feed/
-- Donanım Günlüğü: https://donanimgunlugu.com/feed
-- Gelecek Bilimde: https://gelecekbilimde.net/feed/
-- Gaming: https://onedio.com/Publisher/publisher-gaming.rss
-- Teknoloji: https://onedio.com/Publisher/publisher-teknoloji.rss
-- Sinirbilim: https://sinirbilim.org/feed/
-- Investing Teknoloji: https://tr.investing.com/rss/news_288.rss
-- Bilim Teknoloji: https://www.aa.com.tr/tr/teyithatti/rss/news?cat=bilim-teknoloji
-- Otomobil: https://www.ahaber.com.tr/rss/otomobil.xml
-- Teknoloji: https://www.ahaber.com.tr/rss/teknoloji.xml
-- Bilim Günlüğü: https://www.bilimgunlugu.com/feed/
-- Bilimkurgu Kulübü: https://www.bilimkurgukulubu.com/feed/
-- Bilimoloji: https://www.bilimoloji.com/feed/
-- Bilimup: https://www.bilimup.com/rss.xml
-- Bilim Teknoloji Galeri: https://www.cnnturk.com/feed/rss/bilim-teknoloji/gallery
-- Bilim Teknoloji: https://www.cnnturk.com/feed/rss/bilim-teknoloji/news
-- Bilim Teknoloji Video: https://www.cnnturk.com/feed/rss/bilim-teknoloji/video
-- Otomobil Galeri: https://www.cnnturk.com/feed/rss/otomobil/gallery
-- Otomobil: https://www.cnnturk.com/feed/rss/otomobil/news
-- Otomobil Video: https://www.cnnturk.com/feed/rss/otomobil/video
-- Gerçek Bilim: https://www.gercekbilim.com/feed/
-- Herkese Bilim Teknoloji: https://www.herkesebilimteknoloji.com/feed
-- Independent Bilim: https://www.indyturk.com/taxonomy/term/48791/%2A/feed
-- Megabayt Bilim: https://www.megabayt.com/rss/categorynews/bilim
-- Megabayt Bilim ve Teknoloji: https://www.megabayt.com/rss/categorynews/bilim-ve-teknoloji
-- Megabayt Donanım: https://www.megabayt.com/rss/categorynews/donanim
-- Megabayt Otomobil: https://www.megabayt.com/rss/categorynews/otomobil
-- Megabayt Oyun: https://www.megabayt.com/rss/categorynews/oyun
-- Megabayt Siber Güvenlik: https://www.megabayt.com/rss/categorynews/siber-guvenlik
-- Megabayt Teknoloji: https://www.megabayt.com/rss/categorynews/teknoloji
-- Megabayt Yazılım: https://www.megabayt.com/rss/categorynews/yazilim
-- Otomobil: https://www.milliyet.com.tr/rss/rssnew/otomobilrss.xml
-- Teknoloji: https://www.milliyet.com.tr/rss/rssnew/teknolojirss.xml
-- Otomobil: https://www.ntv.com.tr/otomobil.rss
-- Teknoloji: https://www.ntv.com.tr/teknoloji.rss
-- Otomobil Galeri: https://www.sabah.com.tr/rss/galeri/otomobil.xml
-- Teknoloji Galeri: https://www.sabah.com.tr/rss/galeri/teknoloji.xml
-- Otomobil: https://www.sabah.com.tr/rss/otomobil.xml
-- Oyun: https://www.sabah.com.tr/rss/oyun.xml
-- Teknoloji: https://www.sabah.com.tr/rss/teknoloji.xml
-- Sosyal Bilimler: https://www.sosyalbilimler.org/feed/
-- Sözcü Bilim ve Teknoloji: https://www.sozcu.com.tr/feeds-rss-category-bilim-teknoloji
-- Otomobil: https://www.takvim.com.tr/rss/otomobil.xml
-- Tarihli Bilim: https://www.tarihlibilim.com/feed/
-- Teknolojioku: https://www.teknolojioku.com/export/rss
-- Teknoloji: https://www.yeniakit.com.tr/rss/haber/teknoloji
-- Bilim Teknoloji: https://www.yeniakit.com.tr/rss/video/bilim-teknoloji
-- Teknoloji: https://www.yenisafak.com/rss?xml=teknoloji
+http://www.hurriyet.com.tr/rss/teknoloji
+http://www.mynet.com/haber/rss/kategori/teknoloji/
+http://www.star.com.tr/rss/rss.asp?cid=170
+https://bilimvegelecek.com.tr/index.php/feed/
+https://donanimgunlugu.com/feed
+https://gelecekbilimde.net/feed/
+https://onedio.com/Publisher/publisher-gaming.rss
+https://onedio.com/Publisher/publisher-teknoloji.rss
+https://sinirbilim.org/feed/
+https://tr.investing.com/rss/news_288.rss
+https://www.aa.com.tr/tr/teyithatti/rss/news?cat=bilim-teknoloji
+https://www.ahaber.com.tr/rss/otomobil.xml
+https://www.ahaber.com.tr/rss/teknoloji.xml
+https://www.bilimgunlugu.com/feed/
+https://www.bilimkurgukulubu.com/feed/
+https://www.bilimoloji.com/feed/
+https://www.bilimup.com/rss.xml
+https://www.cnnturk.com/feed/rss/bilim-teknoloji/gallery
+https://www.cnnturk.com/feed/rss/bilim-teknoloji/news
+https://www.cnnturk.com/feed/rss/bilim-teknoloji/video
+https://www.cnnturk.com/feed/rss/otomobil/gallery
+https://www.cnnturk.com/feed/rss/otomobil/news
+https://www.cnnturk.com/feed/rss/otomobil/video
+https://www.gercekbilim.com/feed/
+https://www.herkesebilimteknoloji.com/feed
+https://www.indyturk.com/taxonomy/term/48791/*/feed
+https://www.megabayt.com/rss/categorynews/bilim
+https://www.megabayt.com/rss/categorynews/bilim-ve-teknoloji
+https://www.megabayt.com/rss/categorynews/donanim
+https://www.megabayt.com/rss/categorynews/otomobil
+https://www.megabayt.com/rss/categorynews/oyun
+https://www.megabayt.com/rss/categorynews/siber-guvenlik
+https://www.megabayt.com/rss/categorynews/teknoloji
+https://www.megabayt.com/rss/categorynews/yazilim
+https://www.milliyet.com.tr/rss/rssnew/otomobilrss.xml
+https://www.milliyet.com.tr/rss/rssnew/teknolojirss.xml
+https://www.ntv.com.tr/otomobil.rss
+https://www.ntv.com.tr/teknoloji.rss
+https://www.sabah.com.tr/rss/galeri/otomobil.xml
+https://www.sabah.com.tr/rss/galeri/teknoloji.xml
+https://www.sabah.com.tr/rss/otomobil.xml
+https://www.sabah.com.tr/rss/oyun.xml
+https://www.sabah.com.tr/rss/teknoloji.xml
+https://www.sosyalbilimler.org/feed/
+https://www.sozcu.com.tr/feeds-rss-category-bilim-teknoloji
+https://www.takvim.com.tr/rss/otomobil.xml
+https://www.tarihlibilim.com/feed/
+https://www.teknolojioku.com/export/rss
+https://www.yeniakit.com.tr/rss/haber/teknoloji
+https://www.yeniakit.com.tr/rss/video/bilim-teknoloji
+https://www.yenisafak.com/rss?xml=teknoloji

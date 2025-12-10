@@ -1,3 +1,1 @@
-# Karaman RSS Feeds
-
-- Karaman: https://www.sabah.com.tr/rss/karaman.xml
+https://www.sabah.com.tr/rss/karaman.xml

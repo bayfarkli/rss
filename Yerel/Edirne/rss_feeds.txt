@@ -1,3 +1,1 @@
-# Edirne RSS Feeds
-
-- Edirne: https://www.sabah.com.tr/rss/edirne.xml
+https://www.sabah.com.tr/rss/edirne.xml

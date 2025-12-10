@@ -1,5 +1,3 @@
-# Bursa RSS Feeds
-
-- Fotomaç Bursaspor: https://www.fotomac.com.tr/rss/Bursaspor.xml
-- Bursa: https://www.sabah.com.tr/rss/bursa.xml
-- Bursaspor: https://www.sabah.com.tr/rss/bursaspor.xml
+https://www.fotomac.com.tr/rss/Bursaspor.xml
+https://www.sabah.com.tr/rss/bursa.xml
+https://www.sabah.com.tr/rss/bursaspor.xml

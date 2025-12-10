@@ -1,3 +1,1 @@
-# Konya RSS Feeds
-
-- Konya: https://www.sabah.com.tr/rss/konya.xml
+https://www.sabah.com.tr/rss/konya.xml

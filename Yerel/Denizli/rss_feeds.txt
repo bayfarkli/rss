@@ -1,3 +1,1 @@
-# Denizli RSS Feeds
-
-- Denizli: https://www.sabah.com.tr/rss/denizli.xml
+https://www.sabah.com.tr/rss/denizli.xml

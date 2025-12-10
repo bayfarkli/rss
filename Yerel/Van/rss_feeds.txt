@@ -1,3 +1,1 @@
-# Van RSS Feeds
-
-- Van: https://www.sabah.com.tr/rss/van.xml
+https://www.sabah.com.tr/rss/van.xml

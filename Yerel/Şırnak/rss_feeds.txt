@@ -1,3 +1,1 @@
-# Şırnak RSS Feeds
-
-- Şırnak: https://www.sabah.com.tr/rss/sirnak.xml
+https://www.sabah.com.tr/rss/sirnak.xml

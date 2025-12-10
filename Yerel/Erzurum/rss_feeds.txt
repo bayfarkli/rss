@@ -1,3 +1,1 @@
-# Erzurum RSS Feeds
-
-- Erzurum: https://www.sabah.com.tr/rss/erzurum.xml
+https://www.sabah.com.tr/rss/erzurum.xml

@@ -1,6 +1,4 @@
-# Aydın RSS Feeds
-
-- Aydınlık Gazetesi: http://www.aydinlikgazete.com/rss
-- Aydınlık: https://www.aydinlik.com.tr/feed
-- Aydın: https://www.sabah.com.tr/rss/aydin.xml
-- Günaydın: https://www.sabah.com.tr/rss/gunaydin.xml
+http://www.aydinlikgazete.com/rss
+https://www.aydinlik.com.tr/feed
+https://www.sabah.com.tr/rss/aydin.xml
+https://www.sabah.com.tr/rss/gunaydin.xml

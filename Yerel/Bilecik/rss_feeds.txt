@@ -1,3 +1,1 @@
-# Bilecik RSS Feeds
-
-- Bilecik: https://www.sabah.com.tr/rss/bilecik.xml
+https://www.sabah.com.tr/rss/bilecik.xml

@@ -1,77 +1,75 @@
-# Yaşam RSS Feeds
-
-- Eğitim Birimi Duyuruları: http://rss.istanbulsmmmodasi.org.tr/egitim.xml
-- Astroloji: http://www.hurriyet.com.tr/rss/astroloji
-- Magazin: http://www.hurriyet.com.tr/rss/magazin
-- Yemek: http://www.milliyet.com.tr/rss/rssNew/yemekRss.xml
-- Magazin: http://www.mynet.com/haber/rss/kategori/magazin/
-- Yaşam: http://www.mynet.com/haber/rss/kategori/yasam/
-- Magazin: http://www.star.com.tr/rss/rss.asp?cid=125
-- Eğitim: http://www.star.com.tr/rss/rss.asp?cid=130
-- Yaşam: http://www.star.com.tr/rss/rss.asp?cid=16
-- Kültür Sanat: http://www.star.com.tr/rss/rss.asp?cid=19
-- Eğitim: https://onedio.com/Publisher/publisher-egitim.rss
-- Genel Kültür: https://onedio.com/Publisher/publisher-genel+kultur.rss
-- Magazin: https://onedio.com/Publisher/publisher-magazin.rss
-- Seyahat: https://onedio.com/Publisher/publisher-seyahat.rss
-- Yaşam: https://onedio.com/Publisher/publisher-yasam.rss
-- Yemek: https://onedio.com/Publisher/publisher-yemek.rss
-- Kültür/Sanat: https://www.aa.com.tr/tr/teyithatti/rss/news?cat=kultur-sanat
-- Magazin: https://www.ahaber.com.tr/rss/magazin.xml
-- Yaşam: https://www.ahaber.com.tr/rss/yasam.xml
-- Kültür Sanat Galeri: https://www.cnnturk.com/feed/rss/kultur-sanat/gallery
-- Kültür Sanat: https://www.cnnturk.com/feed/rss/kultur-sanat/news
-- Kültür Sanat Video: https://www.cnnturk.com/feed/rss/kultur-sanat/video
-- Magazin Galeri: https://www.cnnturk.com/feed/rss/magazin/gallery
-- Magazin: https://www.cnnturk.com/feed/rss/magazin/news
-- Magazin Video: https://www.cnnturk.com/feed/rss/magazin/video
-- Seyahat Galeri: https://www.cnnturk.com/feed/rss/seyahat/gallery
-- Seyahat: https://www.cnnturk.com/feed/rss/seyahat/news
-- Seyahat Video: https://www.cnnturk.com/feed/rss/seyahat/video
-- Yaşam Galeri: https://www.cnnturk.com/feed/rss/yasam/gallery
-- Yaşam: https://www.cnnturk.com/feed/rss/yasam/news
-- Yaşam Video: https://www.cnnturk.com/feed/rss/yasam/video
-- Gazete Sanat: https://www.gazetesanat.com/feed
-- Gerçek Hayat: https://www.gzt.com/rss?xml=gercek-hayat
-- İslam Sanatları: https://www.gzt.com/rss?xml=islam-sanatlari
-- İşin Detayı Kültür Sanat: https://www.isindetayi.com/rss/kultur-sanat
-- İşin Detayı Moda: https://www.isindetayi.com/rss/moda
-- İşin Detayı Yaşam: https://www.isindetayi.com/rss/yasam
-- Megabayt Eğitim: https://www.megabayt.com/rss/categorynews/egitim
-- Megabayt Kültür Sanat: https://www.megabayt.com/rss/categorynews/kultur-sanat
-- Megabayt Magazin: https://www.megabayt.com/rss/categorynews/magazin
-- Megabayt Yaşam: https://www.megabayt.com/rss/categorynews/yasam
-- PN Astroloji: https://www.milliyet.com.tr/rss/rssnew/astrolojirss.xml
-- Eğitim: https://www.milliyet.com.tr/rss/rssnew/egitim.xml
-- Magazin: https://www.milliyet.com.tr/rss/rssnew/magazinrss.xml
-- PN Moda: https://www.milliyet.com.tr/rss/rssnew/modarss.xml
-- PN Yaşam: https://www.milliyet.com.tr/rss/rssnew/yasamrss.xml
-- PN Yemek: https://www.milliyet.com.tr/rss/rssnew/yemekrss.xml
-- Magazin: https://www.mynet.com/magazin/rss
-- Eğitim: https://www.ntv.com.tr/egitim.rss
-- Sanat: https://www.ntv.com.tr/sanat.rss
-- Seyahat: https://www.ntv.com.tr/seyahat.rss
-- Yaşam: https://www.ntv.com.tr/yasam.rss
-- Eğitim: https://www.sabah.com.tr/rss/egitim.xml
-- Eğitim Galeri: https://www.sabah.com.tr/rss/galeri/egitim.xml
-- Kültür Sanat Galeri: https://www.sabah.com.tr/rss/galeri/kultursanat.xml
-- Magazin Galeri: https://www.sabah.com.tr/rss/galeri/magazin.xml
-- Yaşam Galeri: https://www.sabah.com.tr/rss/galeri/yasam.xml
-- Kültür Sanat: https://www.sabah.com.tr/rss/kultur-sanat.xml
-- Yaşam: https://www.sabah.com.tr/rss/yasam.xml
-- Sözcü Astroloji: https://www.sozcu.com.tr/feeds-rss-category-astroloji
-- Sözcü Eğitim: https://www.sozcu.com.tr/feeds-rss-category-egitim
-- Sözcü Hayat: https://www.sozcu.com.tr/feeds-rss-category-hayat
-- Sözcü Kültür Sanat: https://www.sozcu.com.tr/feeds-rss-category-kultur-sanat
-- Sözcü Magazin: https://www.sozcu.com.tr/feeds-rss-category-magazin
-- Sözcü Yaşam: https://www.sozcu.com.tr/feeds-rss-category-yasam
-- Yaşam: https://www.takvim.com.tr/rss/yasam.xml
-- Eğitim: https://www.yeniakit.com.tr/rss/haber/egitim
-- Kültür Sanat: https://www.yeniakit.com.tr/rss/haber/kultur-sanat
-- Yaşam: https://www.yeniakit.com.tr/rss/haber/yasam
-- Çocuk Eğitim: https://www.yeniakit.com.tr/rss/video/cocuk-egitim
-- Hayat Aktüel: https://www.yeniakit.com.tr/rss/video/hayat-aktuel
-- Kültür Sanat: https://www.yeniakit.com.tr/rss/video/kultur-sanat
-- Yaşam: https://www.yeniakit.com.tr/rss/video/yasam
-- Hayat: https://www.yenisafak.com/rss?xml=hayat
-- Yeni Yaşam Gazetesi: https://yeniyasamgazetesi9.com/feed/
+http://rss.istanbulsmmmodasi.org.tr/egitim.xml
+http://www.hurriyet.com.tr/rss/astroloji
+http://www.hurriyet.com.tr/rss/magazin
+http://www.milliyet.com.tr/rss/rssNew/yemekRss.xml
+http://www.mynet.com/haber/rss/kategori/magazin/
+http://www.mynet.com/haber/rss/kategori/yasam/
+http://www.star.com.tr/rss/rss.asp?cid=125
+http://www.star.com.tr/rss/rss.asp?cid=130
+http://www.star.com.tr/rss/rss.asp?cid=16
+http://www.star.com.tr/rss/rss.asp?cid=19
+https://onedio.com/Publisher/publisher-egitim.rss
+https://onedio.com/Publisher/publisher-genel+kultur.rss
+https://onedio.com/Publisher/publisher-magazin.rss
+https://onedio.com/Publisher/publisher-seyahat.rss
+https://onedio.com/Publisher/publisher-yasam.rss
+https://onedio.com/Publisher/publisher-yemek.rss
+https://www.aa.com.tr/tr/teyithatti/rss/news?cat=kultur-sanat
+https://www.ahaber.com.tr/rss/magazin.xml
+https://www.ahaber.com.tr/rss/yasam.xml
+https://www.cnnturk.com/feed/rss/kultur-sanat/gallery
+https://www.cnnturk.com/feed/rss/kultur-sanat/news
+https://www.cnnturk.com/feed/rss/kultur-sanat/video
+https://www.cnnturk.com/feed/rss/magazin/gallery
+https://www.cnnturk.com/feed/rss/magazin/news
+https://www.cnnturk.com/feed/rss/magazin/video
+https://www.cnnturk.com/feed/rss/seyahat/gallery
+https://www.cnnturk.com/feed/rss/seyahat/news
+https://www.cnnturk.com/feed/rss/seyahat/video
+https://www.cnnturk.com/feed/rss/yasam/gallery
+https://www.cnnturk.com/feed/rss/yasam/news
+https://www.cnnturk.com/feed/rss/yasam/video
+https://www.gazetesanat.com/feed
+https://www.gzt.com/rss?xml=gercek-hayat
+https://www.gzt.com/rss?xml=islam-sanatlari
+https://www.isindetayi.com/rss/kultur-sanat
+https://www.isindetayi.com/rss/moda
+https://www.isindetayi.com/rss/yasam
+https://www.megabayt.com/rss/categorynews/egitim
+https://www.megabayt.com/rss/categorynews/kultur-sanat
+https://www.megabayt.com/rss/categorynews/magazin
+https://www.megabayt.com/rss/categorynews/yasam
+https://www.milliyet.com.tr/rss/rssnew/astrolojirss.xml
+https://www.milliyet.com.tr/rss/rssnew/egitim.xml
+https://www.milliyet.com.tr/rss/rssnew/magazinrss.xml
+https://www.milliyet.com.tr/rss/rssnew/modarss.xml
+https://www.milliyet.com.tr/rss/rssnew/yasamrss.xml
+https://www.milliyet.com.tr/rss/rssnew/yemekrss.xml
+https://www.mynet.com/magazin/rss
+https://www.ntv.com.tr/egitim.rss
+https://www.ntv.com.tr/sanat.rss
+https://www.ntv.com.tr/seyahat.rss
+https://www.ntv.com.tr/yasam.rss
+https://www.sabah.com.tr/rss/egitim.xml
+https://www.sabah.com.tr/rss/galeri/egitim.xml
+https://www.sabah.com.tr/rss/galeri/kultursanat.xml
+https://www.sabah.com.tr/rss/galeri/magazin.xml
+https://www.sabah.com.tr/rss/galeri/yasam.xml
+https://www.sabah.com.tr/rss/kultur-sanat.xml
+https://www.sabah.com.tr/rss/yasam.xml
+https://www.sozcu.com.tr/feeds-rss-category-astroloji
+https://www.sozcu.com.tr/feeds-rss-category-egitim
+https://www.sozcu.com.tr/feeds-rss-category-hayat
+https://www.sozcu.com.tr/feeds-rss-category-kultur-sanat
+https://www.sozcu.com.tr/feeds-rss-category-magazin
+https://www.sozcu.com.tr/feeds-rss-category-yasam
+https://www.takvim.com.tr/rss/yasam.xml
+https://www.yeniakit.com.tr/rss/haber/egitim
+https://www.yeniakit.com.tr/rss/haber/kultur-sanat
+https://www.yeniakit.com.tr/rss/haber/yasam
+https://www.yeniakit.com.tr/rss/video/cocuk-egitim
+https://www.yeniakit.com.tr/rss/video/hayat-aktuel
+https://www.yeniakit.com.tr/rss/video/kultur-sanat
+https://www.yeniakit.com.tr/rss/video/yasam
+https://www.yenisafak.com/rss?xml=hayat
+https://yeniyasamgazetesi9.com/feed/

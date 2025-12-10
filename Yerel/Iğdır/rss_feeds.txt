@@ -1,3 +1,1 @@
-# Iğdır RSS Feeds
-
-- Iğdır: https://www.sabah.com.tr/rss/igdir.xml
+https://www.sabah.com.tr/rss/igdir.xml

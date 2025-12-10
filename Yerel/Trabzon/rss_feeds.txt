@@ -1,5 +1,3 @@
-# Trabzon RSS Feeds
-
-- Fotomaç Trabzonspor: https://www.fotomac.com.tr/rss/Trabzonspor.xml
-- Trabzon: https://www.sabah.com.tr/rss/trabzon.xml
-- Trabzonspor: https://www.sabah.com.tr/rss/trabzonspor.xml
+https://www.fotomac.com.tr/rss/Trabzonspor.xml
+https://www.sabah.com.tr/rss/trabzon.xml
+https://www.sabah.com.tr/rss/trabzonspor.xml

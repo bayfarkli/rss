@@ -1,3 +1,1 @@
-# Elazığ RSS Feeds
-
-- Elazığ: https://www.sabah.com.tr/rss/elazig.xml
+https://www.sabah.com.tr/rss/elazig.xml

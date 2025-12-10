@@ -1,3 +1,1 @@
-# Osmaniye RSS Feeds
-
-- Osmaniye: https://www.sabah.com.tr/rss/osmaniye.xml
+https://www.sabah.com.tr/rss/osmaniye.xml

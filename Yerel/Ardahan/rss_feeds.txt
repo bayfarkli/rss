@@ -1,3 +1,1 @@
-# Ardahan RSS Feeds
-
-- Ardahan: https://www.sabah.com.tr/rss/ardahan.xml
+https://www.sabah.com.tr/rss/ardahan.xml

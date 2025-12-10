@@ -1,14 +1,12 @@
-# Galeri RSS Feeds
-
-- Tüm Galeriler: https://www.cnnturk.com/feed/rss/all/gallery
-- Türkiye Galeri: https://www.cnnturk.com/feed/rss/turkiye/gallery
-- Foto Galeri: https://www.gzt.com/rss?xml=foto-galeri
-- Aktüel Galeri: https://www.sabah.com.tr/rss/galeri/aktuel.xml
-- Alışveriş Galeri: https://www.sabah.com.tr/rss/galeri/alisveris.xml
-- Amerika Galeri: https://www.sabah.com.tr/rss/galeri/amerika.xml
-- Kadın Galeri: https://www.sabah.com.tr/rss/galeri/kadin.xml
-- Memurlar Galeri: https://www.sabah.com.tr/rss/galeri/memurlar.xml
-- Özel Galeri: https://www.sabah.com.tr/rss/galeri/ozel.xml
-- Sinema Galeri: https://www.sabah.com.tr/rss/galeri/sinema.xml
-- Turizm Galeri: https://www.sabah.com.tr/rss/galeri/turizm.xml
-- Türkiye Galeri: https://www.sabah.com.tr/rss/galeri/turkiye.xml
+https://www.cnnturk.com/feed/rss/all/gallery
+https://www.cnnturk.com/feed/rss/turkiye/gallery
+https://www.gzt.com/rss?xml=foto-galeri
+https://www.sabah.com.tr/rss/galeri/aktuel.xml
+https://www.sabah.com.tr/rss/galeri/alisveris.xml
+https://www.sabah.com.tr/rss/galeri/amerika.xml
+https://www.sabah.com.tr/rss/galeri/kadin.xml
+https://www.sabah.com.tr/rss/galeri/memurlar.xml
+https://www.sabah.com.tr/rss/galeri/ozel.xml
+https://www.sabah.com.tr/rss/galeri/sinema.xml
+https://www.sabah.com.tr/rss/galeri/turizm.xml
+https://www.sabah.com.tr/rss/galeri/turkiye.xml

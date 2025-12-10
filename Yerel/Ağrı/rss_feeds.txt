@@ -1,3 +1,1 @@
-# Ağrı RSS Feeds
-
-- Ağrı: https://www.sabah.com.tr/rss/agri.xml
+https://www.sabah.com.tr/rss/agri.xml

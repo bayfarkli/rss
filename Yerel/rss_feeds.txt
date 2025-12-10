@@ -1,4 +1,2 @@
-# Yerel RSS Feeds
-
-- Yerel: https://www.yeniakit.com.tr/rss/haber/yerel
-- Yerel: https://www.yeniakit.com.tr/rss/video/yerel
+https://www.yeniakit.com.tr/rss/haber/yerel
+https://www.yeniakit.com.tr/rss/video/yerel

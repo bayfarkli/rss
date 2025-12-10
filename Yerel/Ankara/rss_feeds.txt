@@ -1,4 +1,2 @@
-# Ankara RSS Feeds
-
-- Ankara Rewiew: http://www.ankarareview.com/feed
-- Ankara: https://www.sabah.com.tr/rss/ankara.xml
+http://www.ankarareview.com/feed
+https://www.sabah.com.tr/rss/ankara.xml

@@ -1,44 +1,42 @@
-# Spor RSS Feeds
-
-- Amk Spor Gazetesi: http://amkspor.com/feed
-- Fotospor: http://feeds.feedburner.com/fotospor/feed
-- Spor: http://spor.mynet.com/rss
-- Spor: http://www.hurriyet.com.tr/rss/spor
-- AjansSpor: https://ajansspor.com/rss
-- Kontraspor: https://kontraspor.com/rss
-- Spor: https://onedio.com/Publisher/publisher-spor.rss
-- Spor: https://www.ahaber.com.tr/rss/spor.xml
-- A Spor: https://www.aspor.com.tr/rss/anasayfa.xml
-- Spor Galeri: https://www.cnnturk.com/feed/rss/spor/gallery
-- Spor: https://www.cnnturk.com/feed/rss/spor/news
-- Spor Video: https://www.cnnturk.com/feed/rss/spor/video
-- Fotomaç Basketbol: https://www.fotomac.com.tr/rss/Basketbol.xml
-- Fotomaç Beşiktaş: https://www.fotomac.com.tr/rss/Besiktas.xml
-- Fotomaç Fenerbahçe: https://www.fotomac.com.tr/rss/Fenerbahce.xml
-- Fotomaç Galatasaray: https://www.fotomac.com.tr/rss/Galatasaray.xml
-- Fotospor: https://www.fotospor.com/feed/rss_sondakika.xml
-- Futbol Sayfası: https://www.futbolsayfasi.net/feed
-- Megabayt Spor: https://www.megabayt.com/rss/categorynews/spor
-- Spor: https://www.ntv.com.tr/spor.rss
-- NTV Spor Basketbol: https://www.ntvspor.net/rss/kategori/basketbol
-- NTV Spor Diğer Sporlar: https://www.ntvspor.net/rss/kategori/diger-sporlar
-- NTV Spor Futbol: https://www.ntvspor.net/rss/kategori/futbol
-- NTV Spor Motor Sporları: https://www.ntvspor.net/rss/kategori/motor-sporlari
-- NTV Spor Olimpiyat: https://www.ntvspor.net/rss/kategori/olimpiyat
-- NTV Spor Tenis: https://www.ntvspor.net/rss/kategori/tenis
-- NTV Spor Voleybol: https://www.ntvspor.net/rss/kategori/voleybol
-- Beşiktaş: https://www.sabah.com.tr/rss/besiktas.xml
-- Fenerbahçe: https://www.sabah.com.tr/rss/fenerbahce.xml
-- Galatasaray: https://www.sabah.com.tr/rss/galatasaray.xml
-- Spor Galeri: https://www.sabah.com.tr/rss/galeri/spor.xml
-- Spor: https://www.sabah.com.tr/rss/spor.xml
-- Sözcü 2024 Paris Olimpiyatları: https://www.sozcu.com.tr/feeds-rss-category-2024-paris-olimpiyatlari
-- Sözcü Basketbol: https://www.sozcu.com.tr/feeds-rss-category-basketbol
-- Sözcü Diğer Sporlar: https://www.sozcu.com.tr/feeds-rss-category-diger-sporlar
-- Sözcü Futbol: https://www.sozcu.com.tr/feeds-rss-category-futbol
-- Sözcü Spor: https://www.sozcu.com.tr/feeds-rss-category-spor
-- Sözcü Voleybol: https://www.sozcu.com.tr/feeds-rss-category-voleybol
-- Spor: https://www.takvim.com.tr/rss/spor.xml
-- Spor: https://www.yeniakit.com.tr/rss/haber/spor
-- Spor: https://www.yeniakit.com.tr/rss/video/spor
-- Spor: https://www.yenisafak.com/rss?xml=spor
+http://amkspor.com/feed
+http://feeds.feedburner.com/fotospor/feed
+http://spor.mynet.com/rss
+http://www.hurriyet.com.tr/rss/spor
+https://ajansspor.com/rss
+https://kontraspor.com/rss
+https://onedio.com/Publisher/publisher-spor.rss
+https://www.ahaber.com.tr/rss/spor.xml
+https://www.aspor.com.tr/rss/anasayfa.xml
+https://www.cnnturk.com/feed/rss/spor/gallery
+https://www.cnnturk.com/feed/rss/spor/news
+https://www.cnnturk.com/feed/rss/spor/video
+https://www.fotomac.com.tr/rss/Basketbol.xml
+https://www.fotomac.com.tr/rss/Besiktas.xml
+https://www.fotomac.com.tr/rss/Fenerbahce.xml
+https://www.fotomac.com.tr/rss/Galatasaray.xml
+https://www.fotospor.com/feed/rss_sondakika.xml
+https://www.futbolsayfasi.net/feed
+https://www.megabayt.com/rss/categorynews/spor
+https://www.ntv.com.tr/spor.rss
+https://www.ntvspor.net/rss/kategori/basketbol
+https://www.ntvspor.net/rss/kategori/diger-sporlar
+https://www.ntvspor.net/rss/kategori/futbol
+https://www.ntvspor.net/rss/kategori/motor-sporlari
+https://www.ntvspor.net/rss/kategori/olimpiyat
+https://www.ntvspor.net/rss/kategori/tenis
+https://www.ntvspor.net/rss/kategori/voleybol
+https://www.sabah.com.tr/rss/besiktas.xml
+https://www.sabah.com.tr/rss/fenerbahce.xml
+https://www.sabah.com.tr/rss/galatasaray.xml
+https://www.sabah.com.tr/rss/galeri/spor.xml
+https://www.sabah.com.tr/rss/spor.xml
+https://www.sozcu.com.tr/feeds-rss-category-2024-paris-olimpiyatlari
+https://www.sozcu.com.tr/feeds-rss-category-basketbol
+https://www.sozcu.com.tr/feeds-rss-category-diger-sporlar
+https://www.sozcu.com.tr/feeds-rss-category-futbol
+https://www.sozcu.com.tr/feeds-rss-category-spor
+https://www.sozcu.com.tr/feeds-rss-category-voleybol
+https://www.takvim.com.tr/rss/spor.xml
+https://www.yeniakit.com.tr/rss/haber/spor
+https://www.yeniakit.com.tr/rss/video/spor
+https://www.yenisafak.com/rss?xml=spor

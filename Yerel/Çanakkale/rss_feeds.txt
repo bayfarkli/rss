@@ -1,3 +1,1 @@
-# Çanakkale RSS Feeds
-
-- Çanakkale: https://www.sabah.com.tr/rss/canakkale.xml
+https://www.sabah.com.tr/rss/canakkale.xml

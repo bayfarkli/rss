@@ -1,3 +1,1 @@
-# Muş RSS Feeds
-
-- Muş: https://www.sabah.com.tr/rss/mus.xml
+https://www.sabah.com.tr/rss/mus.xml

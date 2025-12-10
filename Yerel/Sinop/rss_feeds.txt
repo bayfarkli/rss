@@ -1,3 +1,1 @@
-# Sinop RSS Feeds
-
-- Sinop: https://www.sabah.com.tr/rss/sinop.xml
+https://www.sabah.com.tr/rss/sinop.xml
